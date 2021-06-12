@@ -1,2 +1,2 @@
 # AUDIO_API
-Audio server simulation -- CRUD API for Audio files using Flask and MongoDB
+Audio server simulation API for Audio files using Flask and MongoDB
